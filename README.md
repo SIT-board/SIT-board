@@ -72,3 +72,6 @@ https://github.com/Y0ngg4n/fluffy_rest_api
 sticker_view是一个可以实现旋转，缩放，平移viewer
 
 https://github.com/gopaldhola99/sticker_view
+
+实现json diff并实现patch
+https://github.com/pikaju/dart-json-patch
