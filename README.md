@@ -19,6 +19,9 @@
 - **插入附件，生成附件外链**
 - **跨平台，支持Android、IOS、macOS、Windows、Linux、Web**
 
+# 演示Demo
+- https://www.bilibili.com/video/BV1Wd4y1b7rc/
+
 # 团队分工
 
 ## [zhangzqs](https://github.com/zhangzqs)
